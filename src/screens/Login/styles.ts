@@ -8,16 +8,16 @@ export const styles = StyleSheet.create({
     paddingTop: 60,
   },
   wordmark: {
-    width: 78,
-    height: 38,
+    width: 110,
+    height: 50,
     alignSelf: "center",
     marginBottom: 40,
     marginTop: 0,
   },
   logo: {
     alignSelf: "center",
-    width: 180,
-    height: 160,
+    width: 210,
+    height: 170,
     marginBottom: 25,
   },
   title: {
@@ -33,7 +33,7 @@ export const styles = StyleSheet.create({
     fontSize: 14,
   },
   inputContainer: {
-    backgroundColor: "#1f1e25",
+    backgroundColor: "#121315",
     borderRadius: 10,
     borderWidth: 1,
     borderColor: "#444",

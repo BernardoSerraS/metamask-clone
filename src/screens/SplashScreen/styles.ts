@@ -8,12 +8,12 @@ export const styles = StyleSheet.create({
     alignItems: "center",
   },
   logo: {
-    width: 140,
-    height: 120,
+    width: 100,
+    height: 100,
     marginBottom: 30,
   },
   loading: {
-    width: 40,
-    height: 40,
+    width: 60,
+    height: 60,
   },
 });
